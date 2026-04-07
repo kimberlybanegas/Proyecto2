@@ -1,12 +1,10 @@
-class Mascota{
+class MascotaVirtual{
     public String color;
     private Integer nombre;
-    public String  misiones;
-    
-    public String comer () {
+    public String  misiones; 
+    public String comer() {
     }
-    public String jugar () {
-
+    public String jugar() {
     }
 
 }
