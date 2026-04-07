@@ -2,8 +2,9 @@
     public String forma;
     private Integer bateria;
     protected String camara;
-    public void vender () {
+    public void vender() {
     }
-    private void reproducirVideo () {
+    private void reproducirVideo() {
     }
 }
+
